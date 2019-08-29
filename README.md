@@ -8,7 +8,7 @@ A dating app
 ## Demo
 	
 *Friend Finder* is deployed to Heroku. Please check it out 
-
+https://evening-cove-28155.herokuapp.com/
 
 
 
